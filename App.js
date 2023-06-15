@@ -4,8 +4,9 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Aca vas a aprender a hacer apps y llenarte de guita loco!!!!</Text>
+      <Text>Hola Coder!</Text>
       <Text>Texto de prueba con el objetivo de ver que onda cuando jugamos con el limite de la pantalla</Text>
+      <Text>Aguante la comision 43850</Text>
       <StatusBar style="auto" />
     </View>
   );
